@@ -145,4 +145,68 @@ export const videos = [
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
+  {
+    id: "9",
+    title: "Zig in 100 Seconds",
+    channel: {
+      name: "Fireship",
+      id: "Fireship",
+      profileUrl:
+        "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+    },
+    views: 20323340,
+    postedAt: new Date("2023-09-09"),
+    duration: 105,
+    thumbnailUrl: "https://i.ytimg.com/vi/kxT8-C1vmd4/maxresdefault.jpg",
+    videoUrl:
+      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+  },
+  {
+    id: "10",
+    title: "Zig in 100 Seconds",
+    channel: {
+      name: "Fireship",
+      id: "Fireship",
+      profileUrl:
+        "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+    },
+    views: 20323340,
+    postedAt: new Date("2023-09-09"),
+    duration: 105,
+    thumbnailUrl: "https://i.ytimg.com/vi/kxT8-C1vmd4/maxresdefault.jpg",
+    videoUrl:
+      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+  },
+  {
+    id: "11",
+    title: "Zig in 100 Seconds",
+    channel: {
+      name: "Fireship",
+      id: "Fireship",
+      profileUrl:
+        "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+    },
+    views: 20323340,
+    postedAt: new Date("2023-09-09"),
+    duration: 105,
+    thumbnailUrl: "https://i.ytimg.com/vi/kxT8-C1vmd4/maxresdefault.jpg",
+    videoUrl:
+      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+  },
+  {
+    id: "12",
+    title: "Zig in 100 Seconds",
+    channel: {
+      name: "Fireship",
+      id: "Fireship",
+      profileUrl:
+        "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+    },
+    views: 20323340,
+    postedAt: new Date("2023-09-09"),
+    duration: 105,
+    thumbnailUrl: "https://i.ytimg.com/vi/kxT8-C1vmd4/maxresdefault.jpg",
+    videoUrl:
+      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+  },
 ]
