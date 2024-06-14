@@ -11,7 +11,15 @@ const Header = () => {
         <HeaderFirstSection showFullWidthSearch={showFullWidthSearch} />
   
             <form className={`gap-4 flex-grow justify-center ${showFullWidthSearch  ? "flex" : "hidden md:flex"} `}>
-                {  showFullWidthSearch && <Button type="button" onClick={() => setShowFullWidthSearch(false)} size={"icon"} variant={"ghost"} className="flex-shrink-0"> <ArrowLeft /> </Button>
+                {  showFullWidthSearch && <Button 
+                type="button" 
+                size={"icon"} 
+                variant={"ghost"} 
+                className="flex-shrink-0"
+                onClick={() => setShowFullWidthSearch(false)} 
+                > 
+                    <ArrowLeft /> 
+                </Button>
                 }
                 <div className="flex flex-grow max-w-[600px]">
                     <input type="search" placeholder="Search" className="border rounded-l-full border-secondary-border shadow-inner shadow-secondary py-1 px-4 text-lg w-full focus:border-blue-500 outline-none" />
